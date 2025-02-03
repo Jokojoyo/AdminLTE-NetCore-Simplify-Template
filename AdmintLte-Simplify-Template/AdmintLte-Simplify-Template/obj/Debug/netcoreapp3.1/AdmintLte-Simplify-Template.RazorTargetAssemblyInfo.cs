@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdmintLte-Simplify-Template")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2004c6f51fcede6d98a4ca946bbf1de20a6c0a6b")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdmintLte-Simplify-Template.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = AdmintLte_Simplify_Template
-build_property.ProjectDir = D:\BORING PROJECT\AdminLTE-NetCore-Simplify-Template\AdmintLte-Simplify-Template\AdmintLte-Simplify-Template\
+build_property.ProjectDir = D:\GITHUB\Magang\AdminLTE-NetCore-Simplify-Template\AdmintLte-Simplify-Template\AdmintLte-Simplify-Template\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

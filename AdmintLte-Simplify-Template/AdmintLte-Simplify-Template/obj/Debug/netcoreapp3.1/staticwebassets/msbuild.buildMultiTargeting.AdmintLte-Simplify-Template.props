@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AdmintLte-Simplify-Template.props" />
+</Project>
